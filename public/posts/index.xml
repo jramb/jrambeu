@@ -13,8 +13,10 @@
       <pubDate>Tue, 22 Feb 2022 08:23:45 +0100</pubDate>
       
       <guid>https://jramb.eu/posts/hello-world/</guid>
-      <description></description>
-      <content></content>
+      <description>Hello world This is my first post, just to say &amp;lsquo;Hi!&amp;rsquo;</description>
+      <content>&lt;h1 id=&#34;hello-world&#34;&gt;Hello world&lt;/h1&gt;
+&lt;p&gt;This is my first post, just to say &amp;lsquo;Hi!&amp;rsquo;&lt;/p&gt;
+</content>
     </item>
     
   </channel>

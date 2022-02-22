@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Terminal</title>
+    <title>Posts on jramb.eu</title>
     <link>https://jramb.eu/posts/</link>
-    <description>Recent content in Posts on Terminal</description>
+    <description>Recent content in Posts on jramb.eu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 22 Feb 2022 08:23:45 +0100</lastBuildDate><atom:link href="https://jramb.eu/posts/index.xml" rel="self" type="application/rss+xml" />

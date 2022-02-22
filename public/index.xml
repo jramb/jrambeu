@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Terminal</title>
+    <title>jramb.eu</title>
     <link>https://jramb.eu/</link>
-    <description>Recent content on Terminal</description>
+    <description>Recent content on jramb.eu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 22 Feb 2022 08:23:45 +0100</lastBuildDate><atom:link href="https://jramb.eu/index.xml" rel="self" type="application/rss+xml" />
@@ -22,7 +22,7 @@
     <item>
       <title>About</title>
       <link>https://jramb.eu/about/</link>
-      <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://jramb.eu/about/</guid>
       <description>Hi there My name is Jörg Ramb and I&amp;rsquo;m the owner of this domain jramb.eu.

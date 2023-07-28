@@ -5,8 +5,18 @@
     <link>https://jramb.eu/posts/</link>
     <description>Recent content in Posts on jramb.eu</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 22 Feb 2022 08:23:45 +0100</lastBuildDate><atom:link href="https://jramb.eu/posts/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Wed, 26 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jramb.eu/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Travel by train</title>
+      <link>https://jramb.eu/posts/travel-2023/</link>
+      <pubDate>Wed, 26 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jramb.eu/posts/travel-2023/</guid>
+      <description>Travel by train I just returned from our vacation in Germany (and Prague). We traveled entirely by train, no plane nor flight. It was great!
+Travel comfort: being able to just arrive at the station, minutes before departure, just enter the train, no security check, keep your luggage with you (that might be considered negative, but I like it). You then have more room, you are not confined to your square inches, walk around freely, Internet, charge your devices with real outlets&amp;hellip;</description>
+    </item>
+    
     <item>
       <title>Hello World</title>
       <link>https://jramb.eu/posts/hello-world/</link>
@@ -14,9 +24,6 @@
       
       <guid>https://jramb.eu/posts/hello-world/</guid>
       <description>Hello world This is my first post, just to say &amp;lsquo;Hi!&amp;rsquo;</description>
-      <content>&lt;h1 id=&#34;hello-world&#34;&gt;Hello world&lt;/h1&gt;
-&lt;p&gt;This is my first post, just to say &amp;lsquo;Hi!&amp;rsquo;&lt;/p&gt;
-</content>
     </item>
     
   </channel>

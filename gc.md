@@ -1,6 +1,11 @@
 # Check locally
 
-- `hugo server  -w -D --bind 0.0.0.0 -b http://chaplin.home.arpa:1313`
+- `git clone https://github.com/jramb/jrambeu.git`
+- `cd jrambeu`
+- `git submodule update --init --recursive`
+
+
+- `hugo server  -w -D --bind 0.0.0.0 -b http://localhost:1313`
 - To publish
   - `hugo`
   - `git add *`

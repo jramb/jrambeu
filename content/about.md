@@ -6,7 +6,8 @@ author = "Jorg"
 
 # Hi there
 
-My name is Jörg Ramb and I'm the owner of this domain `jramb.eu`.
+My name is Jörg Ramb. I live in Sweden.
+I am the owner of this domain `jramb.eu`.
 
 
 <!-- The theme includes: -->
